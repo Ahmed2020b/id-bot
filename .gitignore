@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+assignments.json
+allowed_roles.json 
